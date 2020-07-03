@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.caravanasprati.org
+  - host: midianet.rancher.caravanasprati.org
     http:
       paths:
         - path: /
